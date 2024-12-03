@@ -71,12 +71,6 @@ Please feel free to submit pull requests or open issues to suggest improvements 
 
 
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-
-
 ## 🙏 Acknowledgements
 
 - **[Hugging Face Transformers](https://huggingface.co/transformers/):** For providing the T5 model implementation.
